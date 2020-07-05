@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamHamStack.Android", "XamHamStack\XamHamStack.Android\XamHamStack.Android.csproj", "{F78F50C8-04DD-4867-8166-5C6BDBE3886B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamHamStack", "XamHamStack\XamHamStack\XamHamStack.csproj", "{4DDE00B8-767C-4D6D-91EA-0EFAF7BFDA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78F50C8-04DD-4867-8166-5C6BDBE3886B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78F50C8-04DD-4867-8166-5C6BDBE3886B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78F50C8-04DD-4867-8166-5C6BDBE3886B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F78F50C8-04DD-4867-8166-5C6BDBE3886B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78F50C8-04DD-4867-8166-5C6BDBE3886B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78F50C8-04DD-4867-8166-5C6BDBE3886B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4DDE00B8-767C-4D6D-91EA-0EFAF7BFDA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDE00B8-767C-4D6D-91EA-0EFAF7BFDA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDE00B8-767C-4D6D-91EA-0EFAF7BFDA3D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4DDE00B8-767C-4D6D-91EA-0EFAF7BFDA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDE00B8-767C-4D6D-91EA-0EFAF7BFDA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDE00B8-767C-4D6D-91EA-0EFAF7BFDA3D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAADBA6D-D7B3-42E6-AE14-A7B2B5AF3D4E}
+	EndGlobalSection
+EndGlobal

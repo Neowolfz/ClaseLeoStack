@@ -1,0 +1,14 @@
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\bin\Debug\netstandard2.0\XamHamStack.deps.json
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\bin\Debug\netstandard2.0\XamHamStack.dll
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\bin\Debug\netstandard2.0\ref\XamHamStack.dll
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\bin\Debug\netstandard2.0\XamHamStack.pdb
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\XamHamStack.csprojAssemblyReference.cache
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\XamHamStack.AssemblyInfoInputs.cache
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\XamHamStack.AssemblyInfo.cs
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\XamHamStack.csproj.CoreCompileInputs.cache
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\XamHamStack.dll
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\ref\XamHamStack.dll
+C:\Users\Neowolf\source\repos\XamHamStack\XamHamStack\XamHamStack\obj\Debug\netstandard2.0\XamHamStack.pdb
